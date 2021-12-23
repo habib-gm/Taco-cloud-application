@@ -1,10 +1,10 @@
-package com.haba.tacos;
+package com.haba.taco;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TacosApplicationTests {
+class TacoApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.haba.tacos;
+package com.haba.taco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TacosApplication {
+public class TacoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TacosApplication.class, args);
+		SpringApplication.run(TacoApplication.class, args);
 	}
 
 }
